@@ -1,0 +1,15 @@
+# Don't track content of these folders
+Multicycle/mips_multi_project/
+Multicycle/mips_multi/work/
+
+# Compiled source #
+###################
+*.bak
+*.wlf
+*.mti
+*.mpf
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
